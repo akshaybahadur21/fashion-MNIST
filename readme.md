@@ -1,4 +1,4 @@
-## Digit Recognition using Softmax Regression
+## Attire Recognition
 This code helps you classify different clothing attire using softmax regression.
 
 
