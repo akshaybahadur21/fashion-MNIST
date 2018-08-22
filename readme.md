@@ -1,6 +1,8 @@
-## Attire Recognition
+# Attire Recognition [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/fashion-MNIST/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code helps you classify different clothing attire using softmax regression.
 
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/fashion-MNIST/links/7)
 
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
