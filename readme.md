@@ -18,16 +18,16 @@ For more information, [see](https://www.kdnuggets.com/2016/07/softmax-regression
 1) Dataset- fashiom MNIST dataset
 2) Images of size 28 X 28
 3) Classify clothes :         
-		0: 'T - shirt / top',
-        1: 'Trouser',
-        2: 'Pullover',
-        3: 'Dress',
-        4: 'Coat',
-        5: 'Sandal',
-        6: 'Shirt',
-        7: 'Sneaker',
-        8: 'Bag',
-        9: 'Ankleboot'
+	- T - shirt / top
+	- Trouser
+	- Pullover
+	- Dress
+	- Coat
+	- Sandal
+	- Shirt
+	- Sneaker
+	- Bag
+	- Ankleboot
 
 ## Algorithms 🧵
 - Logistic Regression
